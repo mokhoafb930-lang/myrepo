@@ -5,10 +5,10 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Kho tweak FB Auto Pro chuyên nghiệp
+Description: Kho tweak FB Auto Pro
 MD5Sum:
- 54a8d6103296c75c4535d804466bac09 400 Packages
- c7e144db182802daf8bfa00c8f9425fc 365 Packages.bz2
+ 1f4db09b1f1054418f4f9c15a2393624 236 Packages
+ c738421ebfef3108a040888b9b21c268 226 Packages.bz2
 SHA256:
- 7d21ff87e019fdd681b3222792c805c6f6ffc2b93cd0b6c8b95f4b1101a2e475 400 Packages
- 8bfb1c659391512102ac05caf795021c177c445ba713de4253a5b2861b348245 365 Packages.bz2
+ 8f0e1db834a2e3e85626017629af2f8e370b140d79a0803e6101d5c8c1729187 236 Packages
+ a3f9179ab876ce3d7d91573d2d0c7cf9c863a55dae5c459bd9a9f921f25e819a 226 Packages.bz2
