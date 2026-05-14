@@ -3,9 +3,9 @@ Label: FBAuto
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Kho tweak FB Auto Pro
+Description: Kho tweak FB Auto Pro chuyên nghiệp
 MD5Sum:
  54a8d6103296c75c4535d804466bac09 400 Packages
  c7e144db182802daf8bfa00c8f9425fc 365 Packages.bz2
