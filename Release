@@ -4,10 +4,10 @@ Suite: stable
 Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm64
-Description: Kho tweak FB Auto Pro
+Description: FBAuto Tweak Repo
 MD5Sum:
- 2cd7f0f33ccd0975ba04d3385637bcad 387 Packages
- c41cf287adcdeca61e33ec6ffb983586 330 Packages.bz2
+ 500d33b7d4db9a8764ed5a4762269a3d 383 Packages
+ 95249913eeb30c6e70c733936b66a6d5 328 Packages.bz2
 SHA256:
- 938c07b6cd75e889b71a8cb5d02f10452bbb3e2adbd26376a9ce3a330fe1d80c 387 Packages
- b75f37576ad29247dc3fe35d748b4837a22fea4d0f2a9a61750bf7f10c14c47f 330 Packages.bz2
+ 34e8a8d9ea71f87c9304faf5f659d494842c0fcd23fd10e4cb7ea844bb86f0fd 383 Packages
+ 457f2173188899407b52378e772c97d24cb05e9a083ff4232ae640df209ffa91 328 Packages.bz2
