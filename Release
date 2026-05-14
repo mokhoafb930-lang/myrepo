@@ -6,3 +6,9 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Kho tweak FB Auto Pro
+MD5Sum:
+ 54a8d6103296c75c4535d804466bac09 400 Packages
+ c7e144db182802daf8bfa00c8f9425fc 365 Packages.bz2
+SHA256:
+ 7d21ff87e019fdd681b3222792c805c6f6ffc2b93cd0b6c8b95f4b1101a2e475 400 Packages
+ 8bfb1c659391512102ac05caf795021c177c445ba713de4253a5b2861b348245 365 Packages.bz2
