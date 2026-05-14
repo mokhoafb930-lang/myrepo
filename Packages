@@ -1,14 +1,9 @@
 Package: com.fbauto.pro
 Name: Facebook Automation Pro
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
-Description: Tool Facebook Auto chuyen nghiep 2026.
-Maintainer: FBAuto Team
-Author: FBAuto
-Section: Tweaks
-Depends: firmware (>= 11.0)
+Description: Tool FB Auto.
 Filename: debs/com.fbauto.pro.deb
-Size: 66730
-MD5sum: ff748317330220ed1a5af3c4164131d1
-
+Size: 66731
+MD5sum: 9b1534da35900bd59c489e63ab41cf57
 
