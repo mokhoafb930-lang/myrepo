@@ -2,12 +2,12 @@ Origin: FBAuto Repo
 Label: FBAuto
 Suite: stable
 Version: 1.1
-Codename: ios
 Architectures: iphoneos-arm64
-Description: FBAuto Tweak Repo
+Components: main
+Description: FBAuto Repo
 MD5Sum:
- 500d33b7d4db9a8764ed5a4762269a3d 383 Packages
- 95249913eeb30c6e70c733936b66a6d5 328 Packages.bz2
+ 5de9af265899811238f6bf548cc2b472 368 Packages
+ a65d328d6c0a6e85f93764585b46278c 319 Packages.bz2
 SHA256:
- 34e8a8d9ea71f87c9304faf5f659d494842c0fcd23fd10e4cb7ea844bb86f0fd 383 Packages
- 457f2173188899407b52378e772c97d24cb05e9a083ff4232ae640df209ffa91 328 Packages.bz2
+ 031004bc61b054739e22c437f87f0d4ab327dce745d7eecde7798823eab7c734 368 Packages
+ 92e732f7f2ad706aa433282a92107b821e25a6618608bfa495da94a14e14dcde 319 Packages.bz2
