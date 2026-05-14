@@ -1,13 +1,13 @@
 Origin: FBAuto Repo
 Label: FBAuto
 Suite: stable
-Version: 1.0
+Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm64
 Description: Kho tweak FB Auto Pro
 MD5Sum:
- 44b5f9a3aac0128ac7130417c993983a 314 Packages
- 0911e51152f9fa8fad7a70227668c195 278 Packages.bz2
+ 2cd7f0f33ccd0975ba04d3385637bcad 387 Packages
+ c41cf287adcdeca61e33ec6ffb983586 330 Packages.bz2
 SHA256:
- e0ea84ae0649eb788aae2dfb358dbbc5e8ada1f47ec5c0d1070f838bf24c97ff 314 Packages
- 6af4ee126a13074db6e3a7f35401b80653e8afbd90f85b7891fdda04396efc57 278 Packages.bz2
+ 938c07b6cd75e889b71a8cb5d02f10452bbb3e2adbd26376a9ce3a330fe1d80c 387 Packages
+ b75f37576ad29247dc3fe35d748b4837a22fea4d0f2a9a61750bf7f10c14c47f 330 Packages.bz2

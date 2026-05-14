@@ -10,4 +10,5 @@ Depends: firmware (>= 11.0)
 Filename: debs/com.fbauto.pro.deb
 Size: 66731
 MD5sum: 9b1534da35900bd59c489e63ab41cf57
+SHA256: 4fc865fcbe1df6ac4ed38bc51690bf4b6a74b67a6ba8cb94f85017f52518ca80
 
